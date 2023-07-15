@@ -52,8 +52,7 @@ When designing RESTful APIs, there are several step should be practiced to consi
 - Utilize appropriate HTTP methods for resource manipulation.
 - Return relevant HTTP status codes for each request.
 - Provide a consistent and logical resource hierarchy.
-- Support content negotiation to allow clients to specify desired representations.
-- Use hypermedia links (HATEOAS) to provide discoverability and navigate between resources.
+
 
 ## 5. Conclusion
 REST architecture offers a standardized approach to designing networked applications. By leveraging its fundamental concepts, adhering to constraints, and following best practices, developers can create scalable, reliable, and interoperable systems. Understanding the key concepts and principles of REST is essential for modern web development.
