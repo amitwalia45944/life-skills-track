@@ -8,22 +8,21 @@ REST was introduced in 2000 by Roy Fielding for designing networked applications
 REST design and implementation are built upon several fundamental concepts:
 
 ### 2.1 Resources
-REST resources represent any entity, such as data objects, services, or collections that can be identified. URI  and can be accessed or manipulated through its associated URI.
+REST resources represent any entity, such as data objects, services, or collections that can be identified. URI tries to identify the resources. URI helps in accessing resources and manipulating them.
 
 ### 2.2 Uniform Interface
-RESTful systems adhere to a uniform interface that simplifies the interaction between clients and servers. This interface consists of four essential components:
+REST helps in performing the interaction between clients and servers. It helps in communication between the client and server with the help of main components.
 
 #### 2.2.1 Resource Identification
-Resources are identified using URIs, which provide a standardized way to locate and access resources. URIs are composed of a base URI and a path segment that uniquely identifies the resource.
+URI tries to locate resources. It provides an improved way to locate or identify resources. There are mainly two parts in URIs that locate the resource that is base URI and path segment.
 
 #### 2.2.2 Resource Manipulation
-RESTful systems utilize standard HTTP methods to manipulate resources. These methods include GET, POST, PUT, PATCH, and DELETE. Each method has a specific purpose: retrieving resource representations, creating new resources, updating existing resources, and deleting resources.
-
+REST system provides a standard HTTP method to change or edit or manipulate resources. Basically, the methods are GET, POST, PUT, PATCH, and DELETE. Each method has its own work like creating new resources, updating existing resources, and deleting resources.  
 #### 2.2.3 Resource Representation
-Resources are represented using standard data formats, such as JSON (JavaScript Object Notation) or XML (eXtensible Markup Language). Clients and servers communicate by exchanging representations of resources. Clients can request specific representations by specifying the desired media type in the HTTP `Accept` header.
+Communication between client and server happened in JSON(JavaScript Object Notation) format or XML (eXtensible Markup Language). The client can request specific representation by specifying desired media type in the HTTP Accept header.
 
 #### 2.2.4 Self-Descriptive Messages
-RESTful systems employ self-descriptive messages, where each request and response contains all the necessary information to understand its semantics. The messages include metadata, such as HTTP headers, that provide additional context and enable the recipient to interpret the message correctly.
+To understand complete syntax each request and response contains all the necessary information. The request and response messages include HTTP headers.
 
 ### 2.3 Statelessness
 One of the fundamental principles of REST is statelessness. Each request from a client to a server must contain all the information necessary to process the request. Servers do not maintain any client-specific state between requests. This design choice enhances scalability, reliability, and simplicity in RESTful systems.
