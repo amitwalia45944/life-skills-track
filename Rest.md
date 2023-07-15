@@ -25,28 +25,28 @@ Communication between client and server happened in JSON(JavaScript Object Notat
 To understand complete syntax each request and response contains all the necessary information. The request and response messages include HTTP headers.
 
 ### 2.3 Statelessness
-One of the fundamental principles of REST is statelessness. Each request from a client to a server must contain all the information necessary to process the request. Servers do not maintain any client-specific state between requests. This design choice enhances scalability, reliability, and simplicity in RESTful systems.
+Statelessness is one of the main fundamental properties of REST. It says that whatever the request client made to the server should contain all the required information to process the request. Servers do not maintain any client-specific state between requests. These principles of REST has helped in scalability, reliability, and simplicity in RESTful system.
 
 ## 3. REST Constraints
-REST follows a set of architectural constraints that guide its design and implementation:
+REST gives an instruction set of architectural constraints that tells us how to do design and how to perform implementation. 
 
 ### 3.1 Client-Server
-The client-server constraint separates the concerns of the user interface (client) and the data storage or processing (server). This separation enables independent evolution and enhances scalability. Clients and servers can evolve and be modified without affecting each other.
+The client-server constraints separately handle the concern related to client and server. Basically, This separation provides independent evolution and helps in enhancing scalability between client and server. In other words, the client and server can be handled individually without affecting each other.
 
 ### 3.2 Stateless
-As previously mentioned, RESTful systems are stateless. Each request contains all the information required to process it, and servers do not maintain any client-specific state between requests. This constraint improves scalability, as servers can handle requests from any client without requiring session management.
+RESTful systems are stateless. All each request contains all the information required to process it, and servers do not maintain any client-specific state between requests. This constraint improves scalability, as servers can handle requests from any client without requiring session management.
 
 ### 3.3 Cacheable
-REST encourages the use of caching to improve performance and reduce server load. Responses from servers can be marked as cacheable, allowing clients or intermediate proxies to cache the response. Caching can significantly enhance the efficiency of the overall system and reduce the load on the server.
+REST helps in reducing server load and in performance by using caching. Responses from servers can be marked as cacheable, allowing clients to cache the response. RESTful this property helps in increasing the overall system and reducing the load on the server.
 
 ### 3.4 Layered System
-REST supports a layered system architecture. Intermediate servers, such as proxies or gateways, can be deployed between clients and origin servers. These intermediaries enhance scalability, security, and other aspects without affecting clients or the original server.
+RESTful has a layered system. This contract allows for the deployment of several components such as proxies, gateways, and balancers between clients and servers. These layered systems provide additional functionality such as caching, security, protocol, and translation, without creating disturbance or affecting client-server.
 
 ### 3.5 Uniform Interface
 The uniform interface constraint ensures consistency and simplicity in interactions between clients and servers. It consists of four components: resource identification, resource manipulation using HTTP methods, resource representation, and self-descriptive messages. This constraint simplifies client-server interactions, promotes reusability, and enables the decoupling of clients and servers.
 
 ## 4. Designing RESTful APIs
-When designing RESTful APIs, there are several best practices to consider:
+When designing RESTful APIs, there are several step should be practiced to consider:
 
 - Use nouns to represent resources in the URI.
 - Utilize appropriate HTTP methods for resource manipulation.
