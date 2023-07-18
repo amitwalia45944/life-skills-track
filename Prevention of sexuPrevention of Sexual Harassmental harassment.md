@@ -65,3 +65,7 @@ Sexual harassment in the workplace refers to any unwelcome verbal, visual, or ph
 - They can help to how to file a legal FIR.
 - Trust and prioritize your safety and well-being when responding to incidents of sexual harassment.
 
+**In simple There are generally three forms of sexual harassment: verbal, visual, and physical. Verbal harassment includes making comments about a person's clothing, body, sexual or gender-based jokes or remarks, requesting sexual favors, repeatedly asking someone out, sexual innuendos, threats, and spreading rumors about a person's personal or sexual life. Visual harassment can involve displaying posters, drawings, pictures, screen savers, cartoons, emails, or texts of a sexual nature.
+Physical harassment often includes sexual assault, impeding or blocking movement, inappropriate touching (such as kissing, hugging, patting, stroking, or rubbing), sexual gesturing, leering, or staring.**
+
+****
