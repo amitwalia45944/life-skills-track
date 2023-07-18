@@ -41,19 +41,27 @@ Sexual harassment in the workplace refers to any unwelcome verbal, visual, or ph
 ### 2.2 Document the incidents
 
 - Start collecting proofs silently. 
-- Note down the details of each incident, including dates, times, locations, people involved, and a description of what happened. This documentation can be useful if you decide to report the harassment later.
+- Note down the details of each incident, including dates, times, locations, people involved.
+- A description of what happened.
+- Documentation can be useful if you decide to report the harassment later.
 
 ### 2.3 Talk to someone you trust
 
 - Reach out to some person that you think that guy might help me.
 - Explain the situation.
-- May be he/she can provide support and guidance.
+- Maybe he/she can provide support and guidance.
  
 ### 2.4 Report the incidents
 
-- Sending unwelcome sexual messages, explicit photos, or engaging in cyberstalking.
+- If you feel comfortable doing so, report the harassment to the appropriate person.
+- The person could be a supervisor, human resources department, or designated harassment reporting channel.
+- You can follow your organization's policies and procedures for reporting incidents.
 
 ### 2.5 Seek legal advice
 
-- Sending unwelcome sexual messages, explicit photos, or engaging in cyberstalking.
+- Every situation is unique, and the appropriate actions may vary depending on your circumstances.
+- If no one is ready to help in your organization fails to address the issue, then
+- consult with a legal professional.
+- They can help to how to file a legal FIR.
+- Trust and prioritize your safety and well-being when responding to incidents of sexual harassment.
 
