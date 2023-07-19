@@ -1,8 +1,8 @@
 # Technical Paper: Learning Process
 
-## How to Learn Faster with the Feynman Technique.
+## 1. How to Learn Faster with the Feynman Technique.
 
-### 1 What is the Feynman Technique? 
+### 1.1 What is the Feynman Technique? 
 
 **There are mainly four techniques**
 - First Write down the name of the topic you want to explain it.
@@ -10,13 +10,45 @@
 - Identify the area you struggled with while explaining.
 - Now look at the complicated words and try to break them into more understandable ones.
 
-### 2 What are the different ways to implement this technique in your learning process?
+### 1.2 What are the different ways to implement this technique in your learning process?
 - **Teaching Others**: It is better to test yourself whether you have understood the concept or not.
-- **Problem Solving**: Breaking problem in chunks and applying the Feynman technique could be one of the ways.
+- **Problem Solving**: Breaking problems into chunks and applying the Feynman technique could be one of the ways.
 - **Creating Educational Content**: We can create blogs, Youtube channels, and Posts, and explain different topics.
-- **Conceptual Learning**: When learning anew concept Feynman technique could be applied as i.e simply write down and break into pieces and try to keep it simple as much as possible.
+- **Conceptual Learning**: When learning a new concept Feynman technique could be applied as i.e simply write down
+  and break into pieces and try to keep it simple as much as possible.
 
-## Learning How to Learn TED talk by Barbara Oakley
+## 2. Learning How to Learn TED talk by Barbara Oakley
+
+- Barbara Oakley, a professor of engineering share her life journey how she starts learning when she was not having     enough money to go to college.
+- To learn a language she joined milatery and at age 26 she left it after completeion then she start learning
+  calculus like maths language as she thought languages are important but maths, science are also too important.
+- She explains two modes of brain **focus mode** and **difuse mode**.
+- Focus mode is like a pinball moving along known pathways, while the diffusion mode allow for creative thinking and
+  new ideas and by alternating b/w these nodes, one can enchance learning.
+- Using Salvador Dali and Thomas Edison as examples, how to use these modes.
+- She also suggested 25 minutes of focused work then have a short break.
+- She encourages student of slow learner and weak memory learner.
+- She focused on efffective learning technique like one can foucs on **includeing exercise**, **testing oneself**,
+  **homework practice**, **recalling information** rather than just reading.
+  
+### 2.1 What are some of the steps that you can take to improve your learning process?
+
+- **Understanding Learning style**: My study should suit my learning style.
+- **Set clear goals**: To stay focused and motivated i should define a short term goals.
+- **Active learning**: Doing Homework practice, testing myself, practicing, and recalling information rather than
+   just reading
+- **Staying Calm Down**: While going stuck i can use methods of switching between diffusion and focus mode of my
+  brain.
+
+
+
+
+  
+
+  
+
+
+
 
 
 
